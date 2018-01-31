@@ -30,7 +30,7 @@ const config = {
                 }
             }]
         }, {
-            test: /\.scss$/,
+            test: /\.sass$/,
             exclude: [/node_modules/],
             use: extractSass.extract({
                 fallback: 'style-loader',

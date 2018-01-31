@@ -2,7 +2,221 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56aa3b11-656a-481c-b07c-f62992e37b89" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/about-us/Image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/about-us/group16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/about-us/image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/about-us/image1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/about-us/image2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/about-us/image3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/background/Background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/background/Bgcp4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/background/christmas_snow_trees-wide.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/carousel/arrow_2l.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/carousel/arrow_2r.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/carousel/arrow_l.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/carousel/arrow_r.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/header/Cork coaster.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/header/Juice Glass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/header/juice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/our-services/blog-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/our-services/careers-00.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/our-services/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/our-services/griego3_1x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/our-services/griego4_1x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/our-services/home_dietitian_sectionbg_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/our-services/img-9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/our-services/more_accent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/sprite/1 copy 2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/sprite/AudioPro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/sprite/Infinity.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/sprite/Logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/sprite/Menue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/sprite/RCO.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/sprite/Sport.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/sprite/Swan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/sprite/Swanser.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/sprite/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/sprite/spritegenerator/AudioPro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/sprite/spritegenerator/Infinity.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/sprite/spritegenerator/Logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/sprite/spritegenerator/Menue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/sprite/spritegenerator/RCO.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/sprite/spritegenerator/Sport.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/sprite/spritegenerator/Swan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/sprite/spritegenerator/Swanser.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/team-part/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/team-part/team_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/team-part/team_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/team-part/team_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/team-part/team_3_cp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/team-part/team_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/works/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/works/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/works/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/works/banner3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/works/home_dietitian_sectionbg_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/works/work4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-merriweather/MerriweatherBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-merriweather/MerriweatherBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-merriweather/MerriweatherBold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-merriweather/MerriweatherBoldItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-merriweather/MerriweatherBoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-merriweather/MerriweatherBoldItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-merriweather/MerriweatherItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-merriweather/MerriweatherItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-merriweather/MerriweatherItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-merriweather/MerriweatherLight.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-merriweather/MerriweatherLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-merriweather/MerriweatherLight.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-merriweather/MerriweatherLightItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-merriweather/MerriweatherLightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-merriweather/MerriweatherLightItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-merriweather/MerriweatherRegular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-merriweather/MerriweatherRegular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-merriweather/MerriweatherRegular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Black.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Black.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Black.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-BlackItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-BlackItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-BlackItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-BoldItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-BoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-BoldItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-ExtraBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-ExtraBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-ExtraBold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-ExtraBoldItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-ExtraBoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-ExtraBoldItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-ExtraLight.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-ExtraLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-ExtraLight.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-ExtraLightItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-ExtraLightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-ExtraLightItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-LightItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-LightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-LightItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Medium.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Medium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-MediumItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-MediumItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-MediumItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-SemiBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-SemiBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-SemiBold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-SemiBoldItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-SemiBoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-SemiBoldItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Thin.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-Thin.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-ThinItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-ThinItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/Montserrat-ThinItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayBlack.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayBlack.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayBlack.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayBold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayExtraBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayExtraBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayExtraBold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayExtraLight.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayExtraLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayExtraLight.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayLight.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayLight.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayMedium.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayMedium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayMedium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayRegular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayRegular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayRegular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewaySemiBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewaySemiBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewaySemiBold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayThin.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayThin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/RalewayThin.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/about.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/comment.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-awesome-4.7.0/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-montserrat/SIL Open Font License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/fonts/font-railway/SIL Open Font License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/footer.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/header.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/menu.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/mixin.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/partners.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/reset.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/services.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/sprites.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/styles.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/team.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/variables.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sass/works.sass" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/sass/styles.scss" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/index.js" afterPath="$PROJECT_DIR$/src/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,6 +233,56 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.sass" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sass/styles.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sprites.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sass/sprites.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-234">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fonts.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sass/fonts.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="463">
+              <caret line="50" column="10" lean-forward="true" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="variables.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sass/variables.sass">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
@@ -29,18 +293,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webpack.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="357">
+              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -54,7 +308,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/js/index.js" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/sass/fonts.sass" />
+        <option value="$PROJECT_DIR$/src/sass/styles.sass" />
       </list>
     </option>
   </component>
@@ -66,8 +326,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1153" />
+    <option name="x" value="720" />
+    <option name="width" value="720" />
     <option name="height" value="860" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -128,6 +395,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="add_unversioned_files" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\1Мои проекты\mySite\src\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\1Мои проекты\mySite\src" />
+      <recent name="D:\1Мои проекты\mySite\src\sass" />
+      <recent name="D:\1Мои проекты\mySite\public" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -141,6 +419,14 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mySite/public/index.html" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -151,27 +437,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517429912501</updated>
-      <workItem from="1517429915423" duration="593000" />
+      <workItem from="1517429915423" duration="6487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="593000" />
+    <option name="totallyTimeSpent" value="6487000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1153" height="860" extended-state="0" />
+    <frame x="720" y="0" width="720" height="860" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24932736" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24926686" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997253" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -180,6 +466,25 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24926686" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997253" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -192,26 +497,98 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/index.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/public/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="true" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="45" column="17" lean-forward="true" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/menu.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/sprites.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/fonts.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="50" column="10" lean-forward="true" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/variables.sass">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/styles.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding />
         </state>
       </provider>

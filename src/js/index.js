@@ -1,4 +1,4 @@
-import './../sass/styles.scss';
+import './../sass/styles.sass';
 
 const component = () => {
     const helloWebpack = _.join(_.values({
